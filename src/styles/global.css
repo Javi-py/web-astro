@@ -1,6 +1,6 @@
 html {
   background-color: #f1f5f9;
-  font-family: sans-serif;
+  font-family: verdana, sans-serif;
 }
 
 body {
@@ -26,9 +26,10 @@ h1 {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
+  background-color: #2f608d;
   display: none;
   margin: 0;
+  
 }
 
 .hamburger {
@@ -41,12 +42,11 @@ h1 {
     width: 40px;
     height: 5px;
     margin-bottom: 10px;
-    background-color: #ff9776;
+    background-color: #5193f1;
 }
 
 .nav-links a {
   display: block;
-  text-align: center;
   padding: 10px 0;
   text-decoration: none;
   font-size: 1.2rem;
